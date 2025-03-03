@@ -20,7 +20,7 @@ A Flask-based ChatGPT Bot API with CRUD operations for managing prompts and gett
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/chatgpt-bot-api.git
+   git clone https://github.com/Hassan4243884/assessment
    cd chatgpt-bot-api
    ```
 
